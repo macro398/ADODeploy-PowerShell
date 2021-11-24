@@ -1,0 +1,31 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "Write the code to read all of the upcoming events"
+  },
+  {
+    "op": "add",
+    "path": "/relations/-",
+    "value": {
+      "rel": "System.LinkTypes.Hierarchy-Reverse",
+      "url": "$PBI$"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "Write code to pull all of the events from the backend system."
+  },
+  {
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Scheduling.RemainingWork",
+    "value": "2.5"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.IterationPath",
+    "value": "MobileApp\\Sprint 1"
+  }
+]

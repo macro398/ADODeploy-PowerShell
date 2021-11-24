@@ -1,0 +1,3 @@
+{
+  "query": "Select [System.Id], [System.Title], [System.State] From WorkItems Where [System.AreaPath] = 'QueriesChartsandDashboards'"
+}

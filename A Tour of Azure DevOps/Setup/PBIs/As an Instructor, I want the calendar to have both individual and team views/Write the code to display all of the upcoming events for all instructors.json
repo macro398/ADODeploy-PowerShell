@@ -1,0 +1,31 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "Write the code to display all of the upcoming events for all instructors"
+  },
+  {
+    "op": "add",
+    "path": "/relations/-",
+    "value": {
+      "rel": "System.LinkTypes.Hierarchy-Reverse",
+      "url": "$PBI$"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "We also want the ability for instructors to toggle over to a team wide calendar that will allow them to see their schedule along with all of the other instructors."
+  },
+  {
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Scheduling.RemainingWork",
+    "value": "2"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.IterationPath",
+    "value": "MobileApp\\Sprint 1"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "Query against the evaluations table"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.State",
+    "value": "Closed"
+  }
+]

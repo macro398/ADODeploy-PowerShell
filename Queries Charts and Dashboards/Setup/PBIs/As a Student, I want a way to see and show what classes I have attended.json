@@ -1,0 +1,33 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "As a Student, I want a way to see and show what classes I have attended"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.AreaPath",
+    "value": "QueriesChartsandDashboards"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.IterationPath",
+    "value": "QueriesChartsandDashboards\\Sprint 1"
+  },
+  {
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Scheduling.Effort",
+    "value": "6"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "Students want to be able to see the classes they have attended with us and access certificates of completion."
+  },
+  {
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Common.AcceptanceCriteria",
+    "value": "Any student who has filled out a course evaluation should be able to go to http://www.quicklearn.com/transcript and input the same email they filled out the evaluation with and see all of the classes they attended previously as well as be able to download a certificate of completion."
+  }
+]

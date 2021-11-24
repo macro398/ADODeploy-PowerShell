@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "value": "As a user, I want to be able to include emojis in messages"
+}
+]

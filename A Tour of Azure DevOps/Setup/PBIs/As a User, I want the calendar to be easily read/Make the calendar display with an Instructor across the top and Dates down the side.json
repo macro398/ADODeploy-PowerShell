@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "Make the calendar display with an Instructor across the top and Dates down the side"
+  },
+  {
+    "op": "add",
+    "path": "/relations/-",
+    "value": {
+      "rel": "System.LinkTypes.Hierarchy-Reverse",
+      "url": "$PBI$"
+    }
+  }
+]

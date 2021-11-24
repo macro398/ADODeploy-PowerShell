@@ -1,0 +1,8 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "As a user, I want to be able to control who has access to my public board"
+}
+]

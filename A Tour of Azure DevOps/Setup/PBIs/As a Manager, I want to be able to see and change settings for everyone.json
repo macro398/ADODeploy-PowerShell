@@ -1,0 +1,18 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "As a Manager, I want to be able to see and change settings for everyone"
+},
+{
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "Managers fell in love with the idea of this mobile application and have decided they want in. They want the ability to see everyones schedule as well as make changes at the team level."
+},
+{
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Common.AcceptanceCriteria",
+    "value": "Managers are able to change the schedule Instructor for an Event, mark approved vacation days for a given instructor, and track sick time."
+}
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "As a Student, I want to be able to register for a class"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.State",
+    "value": "Committed"
+  },
+  {
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Common.Priority",
+    "value": "1"
+  }
+]

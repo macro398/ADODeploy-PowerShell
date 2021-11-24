@@ -1,0 +1,35 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "value": "Design a lookup system based off of evaluations submitted"
+  },
+  {
+    "op": "add",
+    "path": "/relations/-",
+    "value": {
+      "rel": "System.LinkTypes.Hierarchy-Reverse",
+      "url": "$PBI$"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.IterationPath",
+    "value": "QuickLearnSite\\Sprint 1"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.AreaPath",
+    "value": "QuickLearnSite"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "We need a way to prove that students attended the course before they can access their certificates. Luckily at the end of the class, students are asked to fill out an evaluation, so the transcript could just show the classes the student has filled out an evaluation for."
+  },
+  {
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Scheduling.RemainingWork",
+    "value": "5"
+  }
+]

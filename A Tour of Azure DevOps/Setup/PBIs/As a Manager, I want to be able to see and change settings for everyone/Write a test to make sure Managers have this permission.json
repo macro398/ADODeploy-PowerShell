@@ -1,0 +1,21 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "Write a test to make sure Managers have this permission"
+  },
+  {
+    "op": "add",
+    "path": "/relations/-",
+    "value": {
+      "rel": "System.LinkTypes.Hierarchy-Reverse",
+      "url": "$PBI$"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "Test that the manager has the ability to make all sorts of changes to an instructor's schedule"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "Fill out a course evaluation"
+  },
+  {
+    "op": "add",
+    "path": "/relations/-",
+    "value": {
+      "rel": "Microsoft.VSTS.Common.TestedBy-Reverse",
+      "url": "$PBI$"
+    }
+  }
+]

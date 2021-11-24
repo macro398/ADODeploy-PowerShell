@@ -1,0 +1,27 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "value": "As an Developer, I want to be able to access data in the back end system"
+},
+{
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "We need to access the data from the backend system to use it in our mobile app. The data we need includes Event, Instructor, Date, and Number of students enrolled"
+},
+{
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Common.AcceptanceCriteria",
+    "value": "Service Bus application able to gather the following data (Instructor, event, date, # of students, location) from back end systems and transport them into the local database."
+},
+{
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Scheduling.Effort",
+    "value": "20"
+},
+  {
+    "op": "add",
+    "path": "/fields/System.IterationPath",
+    "value": "MobileApp\\Sprint 1"
+  }
+]

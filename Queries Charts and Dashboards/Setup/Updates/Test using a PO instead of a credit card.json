@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "Test using a PO instead of a credit card"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.State",
+    "value": "Ready"
+  }
+]

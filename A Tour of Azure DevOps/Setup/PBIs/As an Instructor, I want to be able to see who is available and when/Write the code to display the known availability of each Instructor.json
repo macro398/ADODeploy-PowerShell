@@ -1,0 +1,31 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "Write the code to display the known availability of each Instructor"
+  },
+  {
+    "op": "add",
+    "path": "/relations/-",
+    "value": {
+      "rel": "System.LinkTypes.Hierarchy-Reverse",
+      "url": "$PBI$"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "This will help both the instructor as well as the team track an Instructors availability for scheduling purposes."
+  },
+  {
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Scheduling.RemainingWork",
+    "value": "3"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.IterationPath",
+    "value": "MobileApp\\Sprint 1"
+  }
+]

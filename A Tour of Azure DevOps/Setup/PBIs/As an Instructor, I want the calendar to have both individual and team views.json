@@ -1,0 +1,28 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "As an Instructor, I want the calendar to have both individual and team views"
+},
+{
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "In order to help reduce the clutter and make it easier to navigate in our app, we wan the ability to toggle whether Instructors are seeing just their own schedule, just a fellow Instructors schedule, or if they are seeing everyones schedule."
+},
+{
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Common.AcceptanceCriteria",
+    "value": "Able to toggle between data shown. Toggle 1 - Personal View - Shows only the currently logged in Instructors information Toggle 2 - Team View - Shows the infromation for all instructors Toggle 3 - Chosen View - Shows the informaiton for a given Instructor"
+},
+{
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Scheduling.Effort",
+    "value": "13"
+},
+  {
+    "op": "add",
+    "path": "/fields/System.IterationPath",
+    "value": "MobileApp\\Sprint 1"
+  }
+]

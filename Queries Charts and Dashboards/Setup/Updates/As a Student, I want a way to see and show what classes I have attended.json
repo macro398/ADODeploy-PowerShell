@@ -1,0 +1,18 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "As a Student, I want a way to see and show what classes I have attended"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.State",
+    "value": "Committed"
+  },
+  {
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Common.Priority",
+    "value": "1"
+  }
+]

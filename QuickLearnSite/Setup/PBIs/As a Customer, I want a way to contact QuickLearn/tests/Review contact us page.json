@@ -1,0 +1,21 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "Review contact us page"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.Tags",
+    "value": "Exploratory"
+  },
+  {
+    "op": "add",
+    "path": "/relations/-",
+    "value": {
+      "rel": "Microsoft.VSTS.Common.TestedBy-Reverse",
+      "url": "$PBI$"
+    }
+  }
+]

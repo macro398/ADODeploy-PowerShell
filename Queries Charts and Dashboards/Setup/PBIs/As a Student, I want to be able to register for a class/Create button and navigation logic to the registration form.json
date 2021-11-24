@@ -1,0 +1,35 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "value": "Create button and navigation logic to the registration form"
+  },
+  {
+    "op": "add",
+    "path": "/relations/-",
+    "value": {
+      "rel": "System.LinkTypes.Hierarchy-Reverse",
+      "url": "$PBI$"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.IterationPath",
+    "value": "QueriesChartsandDashboards\\Sprint 1"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.AreaPath",
+    "value": "QueriesChartsandDashboards"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "There needs to be a way for students to get to the registration form and what better way than from the class they have been looking at."
+  },
+  {
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Scheduling.RemainingWork",
+    "value": "1"
+  }
+]

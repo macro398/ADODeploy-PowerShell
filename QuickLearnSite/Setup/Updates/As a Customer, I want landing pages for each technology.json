@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "As a Customer, I want landing pages for each technology"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.State",
+    "value": "Committed"
+  }
+]

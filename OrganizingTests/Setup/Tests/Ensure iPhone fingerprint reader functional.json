@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "Ensure iPhone fingerprint reader functional"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.Tags",
+    "value": "iPhone only"
+  }
+]

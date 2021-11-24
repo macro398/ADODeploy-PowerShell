@@ -1,0 +1,35 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "value": "Create registration form"
+  },
+  {
+    "op": "add",
+    "path": "/relations/-",
+    "value": {
+      "rel": "System.LinkTypes.Hierarchy-Reverse",
+      "url": "$PBI$"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.IterationPath",
+    "value": "QueriesChartsandDashboards\\Sprint 1"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.AreaPath",
+    "value": "QueriesChartsandDashboards"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "Create a form that allows us to gather the following... Promo Code, Training Location, Student Name, Student Email, and Payment Details"
+  },
+  {
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Scheduling.RemainingWork",
+    "value": "5"
+  }
+]

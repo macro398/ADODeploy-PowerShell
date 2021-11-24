@@ -1,0 +1,35 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "value": "Create a database table for all registrations to be queried"
+  },
+  {
+    "op": "add",
+    "path": "/relations/-",
+    "value": {
+      "rel": "System.LinkTypes.Hierarchy-Reverse",
+      "url": "$PBI$"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.IterationPath",
+    "value": "QuickLearnSite\\Sprint 1"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.AreaPath",
+    "value": "QuickLearnSite"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "Create a database in SQL that stores the output of the registration form in an easily queryable way."
+  },
+  {
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Scheduling.RemainingWork",
+    "value": "3"
+  }
+]

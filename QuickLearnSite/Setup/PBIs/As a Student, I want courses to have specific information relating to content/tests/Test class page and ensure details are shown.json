@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "Test class page and ensure details are shown"
+  },
+  {
+    "op": "add",
+    "path": "/relations/-",
+    "value": {
+      "rel": "Microsoft.VSTS.Common.TestedBy-Reverse",
+      "url": "$PBI$"
+    }
+  }
+]

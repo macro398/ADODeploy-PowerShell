@@ -1,0 +1,26 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "Test the EARLY promo code"
+  },
+  {
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.TCM.Steps",
+    "value": "<steps id=\"0\" last=\"6\"><step id=\"2\" type=\"ActionStep\"><parameterizedString isformatted=\"true\">&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;Open a new browser.&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</parameterizedString><parameterizedString isformatted=\"true\">&lt;DIV&gt;&lt;P&gt;&lt;BR/&gt;&lt;/P&gt;&lt;/DIV&gt;</parameterizedString><description/></step><step id=\"3\" type=\"ValidateStep\"><parameterizedString isformatted=\"true\">&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;Navigate to &lt;B&gt;www.quicklearn.com&lt;/B&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</parameterizedString><parameterizedString isformatted=\"true\">&lt;DIV&gt;&lt;P&gt;The QuickLearn home page is displayed.&lt;/P&gt;&lt;/DIV&gt;</parameterizedString><description/></step><step id=\"4\" type=\"ValidateStep\"><parameterizedString isformatted=\"true\">&lt;DIV&gt;&lt;P&gt;Click the &lt;B&gt;Schedule&lt;/B&gt; link in the main menu.&lt;/P&gt;&lt;/DIV&gt;</parameterizedString><parameterizedString isformatted=\"true\">&lt;DIV&gt;&lt;P&gt;The calendar is displayed with all of the upcoming classes.&lt;/P&gt;&lt;/DIV&gt;</parameterizedString><description/></step><step id=\"5\" type=\"ValidateStep\"><parameterizedString isformatted=\"true\">&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;Click the first &lt;B&gt;Register&lt;/B&gt; button in the list.&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</parameterizedString><parameterizedString isformatted=\"true\">&lt;DIV&gt;&lt;P&gt;The registration form is displayed.&lt;/P&gt;&lt;/DIV&gt;</parameterizedString><description/></step><step id=\"6\" type=\"ValidateStep\"><parameterizedString isformatted=\"true\">&lt;P&gt;Next to Voucher/Promo Code, type &lt;B&gt;EARLY &lt;/B&gt;and then click out of the text box.&lt;/P&gt;</parameterizedString><parameterizedString isformatted=\"true\">&lt;P&gt;The total price for the class is discounted by 10% and EARLY remains in the Voucher/Promo Code field.&lt;/P&gt;</parameterizedString><description/></step></steps>"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.IterationPath",
+    "value": "QueriesChartsandDashboards\\Sprint 1"
+  },
+  {
+    "op": "add",
+    "path": "/relations/-",
+    "value": {
+      "rel": "Microsoft.VSTS.Common.TestedBy-Reverse",
+      "url": "$PBI$"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "OrganizingTests",
+  "description": "This is the collaboration space for the FriendSpace mobile application.",
+  "capabilities": {
+    "versioncontrol": {
+      "sourceControlType": "Git"
+    },
+    "processTemplate": {
+      "templateTypeId": "6b724908-ef14-45cf-84f8-768b5384da45"
+    }
+  }
+}

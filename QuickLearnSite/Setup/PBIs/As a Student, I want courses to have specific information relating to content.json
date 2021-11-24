@@ -1,0 +1,23 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "As a Student, I want courses to have specific information relating to content"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.AreaPath",
+    "value": "QuickLearnSite"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.IterationPath",
+    "value": "QuickLearnSite\\Sprint 1"
+  },
+  {
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Scheduling.Effort",
+    "value": "8"
+  }
+]

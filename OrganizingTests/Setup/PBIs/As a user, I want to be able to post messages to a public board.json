@@ -1,0 +1,8 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "As a user, I want to be able to post messages to a public board"
+}
+]

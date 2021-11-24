@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "Test the EARLY promo code"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.State",
+    "value": "Ready"
+  }
+]

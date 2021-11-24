@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "As a Student, I want courses to have specific information relating to content"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.State",
+    "value": "Committed"
+  }
+]

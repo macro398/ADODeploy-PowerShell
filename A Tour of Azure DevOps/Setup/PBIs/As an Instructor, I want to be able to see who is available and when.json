@@ -1,0 +1,28 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "As an Instructor, I want to be able to see who is available and when"
+},
+{
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "Using the data pulled from Service Bus, query and filter the data to gather all of the instructors data as well as gather meetings and appointments from Outlook to allow for the team to better tack availability."
+},
+{
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Common.AcceptanceCriteria",
+    "value": "Able to see all classes and events as well as meeting and appointments in outlook as well as be able to manually create them inside the app."
+},
+{
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Scheduling.Effort",
+    "value": "8"
+},
+{
+    "op": "add",
+    "path": "/fields/System.IterationPath",
+    "value": "MobileApp\\Sprint 1"
+}
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "value": "Design a certificate that dynamically displays the course attended and the students name"
+  },
+  {
+    "op": "add",
+    "path": "/relations/-",
+    "value": {
+      "rel": "System.LinkTypes.Hierarchy-Reverse",
+      "url": "$PBI$"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.IterationPath",
+    "value": "QueriesChartsandDashboards\\Sprint 1"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.AreaPath",
+    "value": "QueriesChartsandDashboards"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "Students are going to want a way to prove they attended the course, and like most trainings, there are certificates that include the name of the class, the instructors name, and the students name."
+  },
+  {
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Scheduling.RemainingWork",
+    "value": "2"
+  }
+]

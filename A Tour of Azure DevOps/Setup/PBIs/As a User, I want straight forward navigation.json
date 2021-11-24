@@ -1,0 +1,18 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "As a User, I want straight forward navigation"
+},
+{
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "During our beta testing of the app we receive feedback that the navigation was too contrived and were given great ideas that we hope to impliment."
+},
+{
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Common.AcceptanceCriteria",
+    "value": "Navigation menu is collapsable and displays in a vertical list instead of a horizontal list."
+}
+]

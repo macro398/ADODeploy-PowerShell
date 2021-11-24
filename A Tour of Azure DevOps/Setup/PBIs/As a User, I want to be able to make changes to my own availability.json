@@ -1,0 +1,8 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "As a User, I want to be able to make changes to my own availability"
+}
+]

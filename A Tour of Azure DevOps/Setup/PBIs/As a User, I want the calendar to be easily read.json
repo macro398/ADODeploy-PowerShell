@@ -1,0 +1,18 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "As a User, I want the calendar to be easily read"
+},
+{
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "To make the calendar easier to read, we have decided to have each instructor in their own column and have the classes color coded by technology as well as shade for type of class (onsite - lighter, public - solid)"
+},
+{
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Common.AcceptanceCriteria",
+    "value": "Events display in columns based off instructor in proper shades based on public/onsite. Calendar also displays starting at current date and Instructor listing starts with currently logged in Instructor."
+}
+]

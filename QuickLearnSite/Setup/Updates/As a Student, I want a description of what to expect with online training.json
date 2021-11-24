@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "As a Student, I want a description of what to expect with online training"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.State",
+    "value": "Committed"
+  }
+]

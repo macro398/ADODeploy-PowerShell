@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "Review the remote training expectations page"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.State",
+    "value": "Closed"
+  }
+]

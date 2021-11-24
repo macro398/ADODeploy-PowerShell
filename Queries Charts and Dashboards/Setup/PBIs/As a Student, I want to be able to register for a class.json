@@ -1,0 +1,33 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "As a Student, I want to be able to register for a class"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.AreaPath",
+    "value": "QueriesChartsandDashboards"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.IterationPath",
+    "value": "QueriesChartsandDashboards\\Sprint 1"
+  },
+  {
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Scheduling.Effort",
+    "value": "8"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "This should include any piece of the registration process from the form, setting up functioning promo codes, and giving the option to pay by credit card or purchase order."
+  },
+  {
+    "op": "add",
+    "path": "/fields/Microsoft.VSTS.Common.AcceptanceCriteria",
+    "value": "A student should be able to select a class and get to the registration form for that specific event. The student should then be able to fill out the registration form with some optional fields that function as expected. The optional fields include being able to pay by credit card or by Purchase Order, and being able to apply a promotional code if they have a valid code. The promotional code should change the price of the order by whatever amount deemed by the back end table."
+  }
+]

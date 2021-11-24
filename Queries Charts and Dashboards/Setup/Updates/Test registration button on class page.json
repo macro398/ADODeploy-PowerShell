@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "from": null,
+    "value": "Test registration button on class page"
+  },
+  {
+    "op": "add",
+    "path": "/fields/System.State",
+    "value": "Ready"
+  }
+]
